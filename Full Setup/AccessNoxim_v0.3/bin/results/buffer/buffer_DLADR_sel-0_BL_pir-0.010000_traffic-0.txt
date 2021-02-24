@@ -1,0 +1,1802 @@
+IDs
+Layer 0
+0	1	2	3	4	5	6	7	
+8	9	10	11	12	13	14	15	
+16	17	18	19	20	21	22	23	
+24	25	26	27	28	29	30	31	
+32	33	34	35	36	37	38	39	
+40	41	42	43	44	45	46	47	
+48	49	50	51	52	53	54	55	
+56	57	58	59	60	61	62	63	
+Layer 1
+64	65	66	67	68	69	70	71	
+72	73	74	75	76	77	78	79	
+80	81	82	83	84	85	86	87	
+88	89	90	91	92	93	94	95	
+96	97	98	99	100	101	102	103	
+104	105	106	107	108	109	110	111	
+112	113	114	115	116	117	118	119	
+120	121	122	123	124	125	126	127	
+Layer 2
+128	129	130	131	132	133	134	135	
+136	137	138	139	140	141	142	143	
+144	145	146	147	148	149	150	151	
+152	153	154	155	156	157	158	159	
+160	161	162	163	164	165	166	167	
+168	169	170	171	172	173	174	175	
+176	177	178	179	180	181	182	183	
+184	185	186	187	188	189	190	191	
+Layer 3
+192	193	194	195	196	197	198	199	
+200	201	202	203	204	205	206	207	
+208	209	210	211	212	213	214	215	
+216	217	218	219	220	221	222	223	
+224	225	226	227	228	229	230	231	
+232	233	234	235	236	237	238	239	
+240	241	242	243	244	245	246	247	
+248	249	250	251	252	253	254	255	
+
+freeslots
+Directions 0
+Layer 0
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	0	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+Layer 1
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	0	16	16	16	16	
+16	16	16	16	16	16	0	16	
+16	16	16	16	16	16	0	0	
+16	16	0	16	16	16	16	0	
+16	16	0	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+Layer 2
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	0	16	16	0	16	16	16	
+16	16	16	16	0	16	16	16	
+16	16	16	16	0	16	16	16	
+16	16	16	16	0	16	16	16	
+16	16	16	0	16	16	16	16	
+Layer 3
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	0	16	16	16	16	16	
+0	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	0	16	16	16	
+16	16	0	16	0	16	16	16	
+
+Directions 1
+Layer 0
+16	0	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	0	0	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	0	0	16	
+Layer 1
+16	16	16	16	16	16	16	16	
+16	16	16	0	0	0	0	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	0	0	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	0	16	16	16	16	16	16	
+Layer 2
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	0	0	0	0	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+Layer 3
+16	16	0	0	0	0	16	16	
+16	0	0	16	16	16	16	16	
+16	16	16	16	0	0	16	16	
+0	0	0	16	16	16	16	16	
+16	16	0	0	0	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	0	0	16	16	16	16	
+16	16	16	0	0	16	16	16	
+
+Directions 2
+Layer 0
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+0	16	16	16	16	16	16	16	
+0	16	16	16	16	16	16	16	
+0	16	16	16	16	16	16	16	
+0	16	16	16	16	0	16	16	
+16	16	16	16	16	16	16	16	
+Layer 1
+16	16	0	16	16	16	16	16	
+16	16	0	16	16	16	16	16	
+16	16	0	0	16	16	16	16	
+16	16	0	0	16	0	16	16	
+16	0	16	0	16	16	16	16	
+16	0	16	0	16	16	16	16	
+16	0	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+Layer 2
+16	16	16	16	16	16	16	16	
+16	16	16	0	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	0	16	
+16	16	16	16	0	16	0	16	
+16	16	16	16	0	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+Layer 3
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	0	16	0	16	16	16	16	
+16	0	0	0	16	0	16	16	
+16	16	16	16	16	16	16	0	
+16	16	16	16	16	16	16	0	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+
+Directions 3
+Layer 0
+16	16	16	16	0	0	0	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+Layer 1
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	0	0	0	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	0	16	16	16	16	
+16	16	16	16	16	16	16	16	
+Layer 2
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	0	0	16	16	16	16	16	
+16	16	0	16	16	16	0	0	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	0	16	
+16	16	16	0	0	16	16	16	
+16	16	16	16	16	16	16	16	
+Layer 3
+16	16	16	0	0	0	0	16	
+16	16	16	16	16	16	16	16	
+16	16	0	0	0	0	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	0	0	0	0	0	
+16	16	16	16	16	16	16	0	
+16	16	16	16	16	0	0	16	
+
+Directions 4
+Layer 0
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+Layer 1
+16	16	16	16	16	16	0	16	
+0	16	0	16	16	16	16	16	
+0	16	16	0	16	16	16	16	
+16	16	0	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	0	16	16	
+16	16	16	16	16	16	16	16	
+Layer 2
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+0	16	16	0	16	16	16	16	
+16	16	0	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	0	16	16	
+16	16	16	16	16	16	16	16	
+Layer 3
+16	16	16	16	16	0	16	16	
+16	16	16	16	16	16	16	16	
+0	16	0	16	16	16	16	16	
+16	16	0	16	16	16	16	0	
+0	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+
+Directions 5
+Layer 0
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	0	16	16	16	16	16	
+Layer 1
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	0	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	0	16	
+16	16	16	16	16	16	16	16	
+16	16	0	0	16	16	16	16	
+Layer 2
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	0	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	0	16	16	16	16	16	
+Layer 3
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+
+Directions 6
+Layer 0
+16	16	0	16	16	16	16	16	
+16	16	0	16	16	16	16	16	
+16	16	16	0	16	16	16	16	
+16	16	16	16	0	16	16	16	
+16	16	16	16	16	16	16	0	
+16	16	16	16	16	16	0	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	0	
+Layer 1
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	0	16	0	
+16	16	16	16	16	0	16	16	
+16	16	16	16	16	16	16	0	
+0	16	16	16	16	16	16	16	
+16	0	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+Layer 2
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+0	0	16	16	16	16	16	16	
+16	16	16	16	16	0	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+Layer 3
+16	16	16	16	16	16	16	16	
+16	16	16	0	16	16	16	16	
+16	16	16	0	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	0	0	16	16	
+16	16	16	16	16	0	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	0	16	16	
+
+wait time
+Directions 0
+Layer 0
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 1
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 2
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 3
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+
+Directions 1
+Layer 0
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 1
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	3	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 2
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 3
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+
+Directions 2
+Layer 0
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 1
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 2
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 3
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+
+Directions 3
+Layer 0
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 1
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 2
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 3
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	3	0	1	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+
+Directions 4
+Layer 0
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 1
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 2
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 3
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+
+Directions 5
+Layer 0
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 1
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 2
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 3
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+
+Directions 6
+Layer 0
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 1
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 2
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 3
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	3	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	6	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+
+dst_id
+Directions 0
+Layer 0
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	45	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 1
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	19	na	na	na	na	
+na	na	na	na	na	na	102	na	
+na	na	na	na	na	na	102	175	
+na	na	58	na	na	na	na	175	
+na	na	58	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	229	na	na	116	na	na	na	
+na	na	na	na	116	na	na	na	
+na	na	na	na	116	na	na	na	
+na	na	na	na	116	na	na	na	
+na	na	na	123	na	na	na	na	
+Layer 3
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	237	na	na	na	na	na	
+112	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	255	na	na	na	
+na	na	186	na	255	na	na	na	
+
+Directions 1
+Layer 0
+na	153	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	45	45	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	149	149	na	
+Layer 1
+na	na	na	na	na	na	na	na	
+na	na	na	19	19	216	216	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	58	58	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	153	na	na	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	18	18	18	18	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 3
+na	na	218	218	218	218	na	na	
+na	88	88	na	na	na	na	na	
+na	na	na	na	212	212	na	na	
+112	112	112	na	na	na	na	na	
+na	na	90	90	90	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	186	57	na	na	na	na	
+na	na	na	88	88	na	na	na	
+
+Directions 2
+Layer 0
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+208	na	na	na	na	na	na	na	
+208	na	na	na	na	na	na	na	
+208	na	na	na	na	na	na	na	
+208	na	na	na	na	149	na	na	
+na	na	na	na	na	na	na	na	
+Layer 1
+na	na	66	na	na	na	na	na	
+na	na	66	na	na	na	na	na	
+na	na	66	131	na	na	na	na	
+na	na	66	131	na	69	na	na	
+na	153	na	131	na	na	na	na	
+na	153	na	131	na	na	na	na	
+na	153	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	139	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	94	na	
+na	na	na	na	164	na	94	na	
+na	na	na	na	164	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 3
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	209	na	211	na	na	na	na	
+na	209	90	211	na	213	na	na	
+na	na	na	na	na	na	na	39	
+na	na	na	na	na	na	na	39	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+
+Directions 3
+Layer 0
+na	na	na	na	198	198	198	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 1
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	69	69	69	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	171	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	229	237	na	na	na	na	na	
+na	na	229	na	na	na	223	223	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	94	na	
+na	na	na	164	164	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 3
+na	na	na	198	198	198	198	na	
+na	na	na	na	na	na	na	na	
+na	na	127	127	127	127	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	183	183	183	71	71	
+na	na	na	na	na	na	na	39	
+na	na	na	na	na	255	255	na	
+
+Directions 4
+Layer 0
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 1
+na	na	na	na	na	na	198	na	
+72	na	74	na	na	na	na	na	
+208	na	na	183	na	na	na	na	
+na	na	218	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	181	na	na	
+na	na	na	na	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+208	na	na	183	na	na	na	na	
+na	na	218	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	181	na	na	
+na	na	na	na	na	na	na	na	
+Layer 3
+na	na	na	na	na	197	na	na	
+na	na	na	na	na	na	na	na	
+208	na	237	na	na	na	na	na	
+na	na	218	na	na	na	na	223	
+224	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+
+Directions 5
+Layer 0
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	58	na	na	na	na	na	
+Layer 1
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	94	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	110	na	
+na	na	na	na	na	na	na	na	
+na	na	58	123	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	39	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	186	na	na	na	na	na	
+Layer 3
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+
+Directions 6
+Layer 0
+na	na	153	na	na	na	na	na	
+na	na	74	na	na	na	na	na	
+na	na	na	183	na	na	na	na	
+na	na	na	na	150	na	na	na	
+na	na	na	na	na	na	na	108	
+na	na	na	na	na	na	32	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	149	
+Layer 1
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	19	na	216	
+na	na	na	na	na	17	na	na	
+na	na	na	na	na	na	na	175	
+8	na	na	na	na	na	na	na	
+na	150	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+229	237	na	na	na	na	na	na	
+na	na	na	na	na	34	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 3
+na	na	na	na	na	na	na	na	
+na	na	na	88	na	na	na	na	
+na	na	na	38	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	225	213	na	na	
+na	na	na	na	na	71	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	88	na	na	
+
+src_id
+Directions 0
+Layer 0
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	39	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 1
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	77	na	na	na	na	
+na	na	na	na	na	na	10	na	
+na	na	na	na	na	na	10	95	
+na	na	102	na	na	na	na	95	
+na	na	102	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	144	na	na	130	na	na	na	
+na	na	na	na	130	na	na	na	
+na	na	na	na	130	na	na	na	
+na	na	na	na	130	na	na	na	
+na	na	na	141	na	na	na	na	
+Layer 3
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	145	na	na	na	na	na	
+222	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	26	na	na	na	
+na	na	245	na	26	na	na	na	
+
+Directions 1
+Layer 0
+na	2	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	39	39	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	63	63	na	
+Layer 1
+na	na	na	na	na	na	na	na	
+na	na	na	77	77	79	79	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	102	102	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	122	na	na	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	159	159	159	159	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 3
+na	na	198	198	198	198	na	na	
+na	203	203	na	na	na	na	na	
+na	na	na	na	214	214	na	na	
+222	222	222	na	na	na	na	na	
+na	na	231	231	231	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	245	246	na	na	na	na	
+na	na	na	253	253	na	na	na	
+
+Directions 2
+Layer 0
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+58	na	na	na	na	na	na	na	
+58	na	na	na	na	na	na	na	
+58	na	na	na	na	na	na	na	
+58	na	na	na	na	63	na	na	
+na	na	na	na	na	na	na	na	
+Layer 1
+na	na	113	na	na	na	na	na	
+na	na	113	na	na	na	na	na	
+na	na	113	119	na	na	na	na	
+na	na	113	119	na	97	na	na	
+na	122	na	119	na	na	na	na	
+na	122	na	119	na	na	na	na	
+na	122	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	105	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	171	na	
+na	na	na	na	56	na	171	na	
+na	na	na	na	56	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 3
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	237	na	49	na	na	na	na	
+na	237	231	49	na	229	na	na	
+na	na	na	na	na	na	na	240	
+na	na	na	na	na	na	na	240	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+
+Directions 3
+Layer 0
+na	na	na	na	0	0	0	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 1
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	97	97	97	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	114	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	144	145	na	na	na	na	na	
+na	na	144	na	na	na	157	157	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	171	na	
+na	na	na	56	56	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 3
+na	na	na	193	193	193	193	na	
+na	na	na	na	na	na	na	na	
+na	na	209	209	209	209	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	234	234	234	237	237	
+na	na	na	na	na	na	na	240	
+na	na	na	na	na	26	26	na	
+
+Directions 4
+Layer 0
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 1
+na	na	na	na	na	na	0	na	
+22	na	10	na	na	na	na	na	
+40	na	na	19	na	na	na	na	
+na	na	4	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	47	na	na	
+na	na	na	na	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+40	na	na	19	na	na	na	na	
+na	na	4	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	47	na	na	
+na	na	na	na	na	na	na	na	
+Layer 3
+na	na	na	na	na	16	na	na	
+na	na	na	na	na	na	na	na	
+40	na	145	na	na	na	na	na	
+na	na	4	na	na	na	na	157	
+67	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+
+Directions 5
+Layer 0
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	202	na	na	na	na	na	
+Layer 1
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	171	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	214	na	
+na	na	na	na	na	na	na	na	
+na	na	202	141	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	240	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	245	na	na	na	na	na	
+Layer 3
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+
+Directions 6
+Layer 0
+na	na	2	na	na	na	na	na	
+na	na	10	na	na	na	na	na	
+na	na	na	19	na	na	na	na	
+na	na	na	na	28	na	na	na	
+na	na	na	na	na	na	na	39	
+na	na	na	na	na	na	46	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	63	
+Layer 1
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	77	na	79	
+na	na	na	na	na	85	na	na	
+na	na	na	na	na	na	na	95	
+96	na	na	na	na	na	na	na	
+na	105	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+144	145	na	na	na	na	na	na	
+na	na	na	na	na	157	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 3
+na	na	na	na	na	na	na	na	
+na	na	na	203	na	na	na	na	
+na	na	na	211	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	228	229	na	na	
+na	na	na	na	na	237	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	253	na	na	
+
+Flit DW Type
+Directions 0
+Layer 0
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	1	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 1
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	1	na	na	na	na	
+na	na	na	na	na	na	1	na	
+na	na	na	na	na	na	1	1	
+na	na	1	na	na	na	na	1	
+na	na	1	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	1	na	na	1	na	na	na	
+na	na	na	na	1	na	na	na	
+na	na	na	na	1	na	na	na	
+na	na	na	na	1	na	na	na	
+na	na	na	1	na	na	na	na	
+Layer 3
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	1	na	na	na	na	na	
+1	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	1	na	na	na	
+na	na	1	na	1	na	na	na	
+
+Directions 1
+Layer 0
+na	1	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	1	1	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	1	1	na	
+Layer 1
+na	na	na	na	na	na	na	na	
+na	na	na	1	1	1	1	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	1	1	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	1	na	na	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	1	1	1	1	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 3
+na	na	1	1	1	1	na	na	
+na	1	1	na	na	na	na	na	
+na	na	na	na	1	1	na	na	
+1	1	1	na	na	na	na	na	
+na	na	1	1	1	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	1	1	na	na	na	na	
+na	na	na	1	1	na	na	na	
+
+Directions 2
+Layer 0
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+1	na	na	na	na	na	na	na	
+1	na	na	na	na	na	na	na	
+1	na	na	na	na	na	na	na	
+1	na	na	na	na	1	na	na	
+na	na	na	na	na	na	na	na	
+Layer 1
+na	na	1	na	na	na	na	na	
+na	na	1	na	na	na	na	na	
+na	na	1	1	na	na	na	na	
+na	na	1	1	na	1	na	na	
+na	1	na	1	na	na	na	na	
+na	1	na	1	na	na	na	na	
+na	1	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	1	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	1	na	
+na	na	na	na	1	na	1	na	
+na	na	na	na	1	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 3
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	1	na	1	na	na	na	na	
+na	1	1	1	na	1	na	na	
+na	na	na	na	na	na	na	1	
+na	na	na	na	na	na	na	1	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+
+Directions 3
+Layer 0
+na	na	na	na	1	1	1	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 1
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	1	1	1	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	1	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	1	1	na	na	na	na	na	
+na	na	1	na	na	na	1	1	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	1	na	
+na	na	na	1	1	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 3
+na	na	na	1	1	1	1	na	
+na	na	na	na	na	na	na	na	
+na	na	1	1	1	1	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	1	1	1	1	1	
+na	na	na	na	na	na	na	1	
+na	na	na	na	na	1	1	na	
+
+Directions 4
+Layer 0
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 1
+na	na	na	na	na	na	1	na	
+1	na	1	na	na	na	na	na	
+1	na	na	1	na	na	na	na	
+na	na	1	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	1	na	na	
+na	na	na	na	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+1	na	na	1	na	na	na	na	
+na	na	1	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	1	na	na	
+na	na	na	na	na	na	na	na	
+Layer 3
+na	na	na	na	na	1	na	na	
+na	na	na	na	na	na	na	na	
+1	na	1	na	na	na	na	na	
+na	na	1	na	na	na	na	1	
+1	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+
+Directions 5
+Layer 0
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	1	na	na	na	na	na	
+Layer 1
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	1	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	1	na	
+na	na	na	na	na	na	na	na	
+na	na	1	1	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	1	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	1	na	na	na	na	na	
+Layer 3
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+
+Directions 6
+Layer 0
+na	na	1	na	na	na	na	na	
+na	na	1	na	na	na	na	na	
+na	na	na	1	na	na	na	na	
+na	na	na	na	1	na	na	na	
+na	na	na	na	na	na	na	1	
+na	na	na	na	na	na	1	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	1	
+Layer 1
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	1	na	1	
+na	na	na	na	na	1	na	na	
+na	na	na	na	na	na	na	1	
+1	na	na	na	na	na	na	na	
+na	1	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+1	1	na	na	na	na	na	na	
+na	na	na	na	na	1	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 3
+na	na	na	na	na	na	na	na	
+na	na	na	1	na	na	na	na	
+na	na	na	1	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	1	1	na	na	
+na	na	na	na	na	1	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	1	na	na	
+
+reservatable table
+Directions 0
+Layer 0
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	6	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+Layer 1
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	4	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	2	-2	
+-2	-2	-2	-2	-2	-2	6	2	
+-2	-2	2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+Layer 2
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	1	-2	-2	2	-2	-2	-2	
+-2	-2	-2	-2	2	-2	-2	-2	
+-2	-2	-2	-2	2	-2	-2	-2	
+-2	-2	-2	-2	4	-2	-2	-2	
+-2	-2	-2	4	-2	-2	-2	-2	
+Layer 3
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	2	-2	-2	-2	
+-2	-2	4	-2	1	-2	-2	-2	
+
+Directions 1
+Layer 0
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	2	3	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	0	3	-2	
+Layer 1
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	2	3	-2	3	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	2	3	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	0	-2	-2	-2	-2	-2	-2	
+Layer 2
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	3	3	3	3	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+Layer 3
+-2	-2	-2	3	3	3	-2	-2	
+-2	3	3	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	6	3	-2	-2	
+2	3	3	-2	-2	-2	-2	-2	
+-2	-2	0	3	3	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	2	3	-2	-2	-2	-2	
+-2	-2	-2	3	3	-2	-2	-2	
+
+Directions 2
+Layer 0
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+0	-2	-2	-2	-2	-2	-2	-2	
+0	-2	-2	-2	-2	-2	-2	-2	
+0	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+Layer 1
+-2	-2	6	-2	-2	-2	-2	-2	
+-2	-2	0	-2	-2	-2	-2	-2	
+-2	-2	0	0	-2	-2	-2	-2	
+-2	-2	0	0	-2	0	-2	-2	
+-2	0	-2	0	-2	-2	-2	-2	
+-2	0	-2	0	-2	-2	-2	-2	
+-2	0	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+Layer 2
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	6	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	4	-2	
+-2	-2	-2	-2	6	-2	0	-2	
+-2	-2	-2	-2	0	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+Layer 3
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	6	-2	6	-2	-2	-2	-2	
+-2	0	4	0	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	4	
+-2	-2	-2	-2	-2	-2	-2	0	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+
+Directions 3
+Layer 0
+-2	-2	-2	-2	1	1	5	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+Layer 1
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	1	1	0	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	0	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+Layer 2
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	2	5	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	1	5	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	0	-2	
+-2	-2	-2	1	0	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+Layer 3
+-2	-2	-2	1	1	1	6	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	1	1	1	1	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	1	1	-2	1	-2	
+-2	-2	-2	-2	-2	-2	-2	0	
+-2	-2	-2	-2	-2	1	1	-2	
+
+Directions 4
+Layer 0
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+Layer 1
+-2	-2	-2	-2	-2	-2	5	-2	
+6	-2	6	-2	-2	-2	-2	-2	
+5	-2	-2	5	-2	-2	-2	-2	
+-2	-2	5	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	5	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+Layer 2
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+5	-2	-2	1	-2	-2	-2	-2	
+-2	-2	5	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	6	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+Layer 3
+-2	-2	-2	-2	-2	6	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+6	-2	2	-2	-2	-2	-2	-2	
+-2	-2	6	-2	-2	-2	-2	6	
+6	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+
+Directions 5
+Layer 0
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	6	-2	-2	-2	-2	-2	
+Layer 1
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	6	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	4	6	-2	-2	-2	-2	
+Layer 2
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	4	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+Layer 3
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+
+Directions 6
+Layer 0
+-2	-2	3	-2	-2	-2	-2	-2	
+-2	-2	5	-2	-2	-2	-2	-2	
+-2	-2	-2	5	-2	-2	-2	-2	
+-2	-2	-2	-2	1	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	3	
+Layer 1
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	3	-2	3	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+Layer 2
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+1	1	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+Layer 3
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	3	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	0	-2	-2	
+-2	-2	-2	-2	-2	1	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	3	-2	-2	
+
+on_off
+Directions 0
+Layer 0
+1	1	1	1	1	1	1	1	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 1
+1	1	1	1	1	1	1	1	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 2
+1	1	1	1	1	1	1	1	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+Layer 3
+1	1	1	1	1	1	1	1	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+
+Directions 1
+Layer 0
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+Layer 1
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+Layer 2
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+Layer 3
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	
+
+Directions 2
+Layer 0
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+1	1	1	1	1	1	1	1	
+Layer 1
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+1	1	1	1	1	1	1	1	
+Layer 2
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+1	1	1	1	1	1	1	1	
+Layer 3
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
+1	1	1	1	1	1	1	1	
+
+Directions 3
+Layer 0
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+Layer 1
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+Layer 2
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+Layer 3
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+
+transmit:	25683
+not_transmit:	0
+adaptive_transmit:	205023
+DOR_transmit:	0
+DW_transmit:	0
+mid_adaptive_transmit:	0
+mid_DOR_transmit:	0
+mid_DW_transmit:	0
+packet_in_buffer	80
