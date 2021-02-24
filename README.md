@@ -1,3 +1,6 @@
+Any issues, drop a mail at pranjal.mittal1999@gmail.com .
+Thanks
+
 This is to make you install Access Noxim in your system. 
 One thing is to be noted that this is exclusively for linux Ubuntu platform. May be it can work on other linux system.
 
