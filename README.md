@@ -5,3 +5,17 @@ We need system C to use Access Noxim. The version used is for version 0.3 of Acc
 Individual folder in Full Setup contains the Individual readme for helping you in installation.
 1st install system C and then Noxim
 
+Clone or download this whole repo in your local machine
+Steps to install SystemC
+
+STEP 1:
+
+First of all open terminal (ctrl+alt+T), and type:
+
+$ sudo apt-get install build-essential
+
+this will download and install all the necessary compiler tools in your system.
+
+STEP 2:
+
+Bring the current working directory in terminal to current repo
